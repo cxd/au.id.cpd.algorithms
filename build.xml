@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project name="Packaging Generator" default="_packaging_generation_">
+<target name="_packaging_generation_" depends="N65540"/>
+<target name="N65540" description="au.id.cpd.algorithms.jar">
+<jar destfile="build/au.id.cpd.algorithms.jar" manifest="build/au.id.cpd.algorithms.manifest">
+<zipfileset dir="bin" includes="**/*.class"/>
+</jar>
+</target>
+</project>

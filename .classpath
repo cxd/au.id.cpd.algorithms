@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="lib" path="/Users/cd/workspace/au.id.cpd.algorithms/lib/blas.jar"/>
+	<classpathentry kind="lib" path="/Users/cd/workspace/au.id.cpd.algorithms/lib/blas_simple.jar"/>
+	<classpathentry kind="lib" path="/Users/cd/workspace/au.id.cpd.algorithms/lib/f2jutil.jar"/>
+	<classpathentry kind="lib" path="/Users/cd/workspace/au.id.cpd.algorithms/lib/jchart2d-2.1.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
